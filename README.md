@@ -3,6 +3,7 @@
 # EN ESTE EJEMPLO SE UTILIZA VUETIFY es un marco de interfaz de usuario completo construido sobre Vue.js. 
 ## Project setup
 ```
+Pimero ejecutar :
 npm install
 ```
 
