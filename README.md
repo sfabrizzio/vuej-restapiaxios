@@ -1,4 +1,4 @@
-# EJEMPLO BASICO CRUD CON VUE-JS Y AXIOS EMPLEANDO SERVICE
+# EJEMPLO BASICO CRUD CON VUE.JS Y AXIOS EMPLEANDO SERVICE
 
 # EN ESTE EJEMPLO SE UTILIZA VUETIFY es un marco de interfaz de usuario completo construido sobre Vue.js. 
 ## Project setup
