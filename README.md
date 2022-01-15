@@ -1,3 +1,5 @@
+Vue.js (comúnmente conocido como Vue; se pronuncia /vjuː/, como "view"3​) es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones 
+
 # EJEMPLO BASICO CRUD CON VUE.JS Y AXIOS EMPLEANDO SERVICE
 
 # EN ESTE EJEMPLO SE UTILIZA VUETIFY es un marco de interfaz de usuario completo construido sobre Vue.js. 
