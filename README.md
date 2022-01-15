@@ -42,3 +42,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+echo "# vuerjs-vuetify-axios2" 
