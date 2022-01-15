@@ -29,7 +29,10 @@ npm run serve
       }
     ]
   }`
-# utilizar  json-server --watch src/data_base/bd.json para Obtener una API REST falsa completa sin codificación 
+  
+  
+# en un nuevo terminal : 
+utilizar  json-server --watch src/data_base/bd.json para Obtener una API REST falsa completa sin codificación 
 # http://localhost:3000/frameworks
 ### Compiles and minifies for production
 ```
