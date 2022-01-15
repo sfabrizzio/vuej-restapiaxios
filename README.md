@@ -6,10 +6,13 @@
 Pimero ejecutar :
 npm install
 ```
+luego :
 
-### Compiles and hot-reloads for development
-```
 npm run serve
+
+### APÌ REST LOCAL
+```
+
 ``
 # Se Añadiò  una base de datos local creando un archivo bd.json con algunos datos. En este caso vamos a añadir algunos datoss:
 
