@@ -5,6 +5,10 @@ Vue.js (comúnmente conocido como Vue; se pronuncia /vjuː/, como "view"3​) es
 # EN ESTE EJEMPLO SE UTILIZA VUETIFY es un marco de interfaz de usuario completo construido sobre Vue.js. 
 ## Project setup
 ```
+Instalación del servidor JSON
+JSON Server está disponible como paquete NPM. La instalación se puede realizar utilizando el administrador de paquetes Node.js:
+npm install -g json-server
+
 Pimero ejecutar :
 npm install
 ```
