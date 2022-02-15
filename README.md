@@ -17,6 +17,8 @@ luego :
 npm run serve
 
 ### APÌ REST LOCAL
+
+referencia;https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d
 ```
 
 ``
